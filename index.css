@@ -1,0 +1,17 @@
+body{
+    margin: 0;
+    background-color: black;
+}
+#root{
+    padding: 3vw;
+    text-align: center;
+}
+#root h1{
+    font-family: "Press Start 2P", system-ui;
+    color: white;
+}
+#root canvas{
+    display: block;
+    margin: 0 auto;
+    
+}
